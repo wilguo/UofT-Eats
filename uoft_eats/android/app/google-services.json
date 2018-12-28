@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "228349416940",
+    "firebase_url": "https://uoft-eats.firebaseio.com",
+    "project_id": "uoft-eats",
+    "storage_bucket": "uoft-eats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228349416940:android:b526fcabd4a6870b",
+        "android_client_info": {
+          "package_name": "uoft.uofteats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228349416940-j1so0dmg3rdcpc749qla08t8v3e3tdjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKoNZHyNY9BzM_5MC7Ia3ZKZosRSD7pMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
